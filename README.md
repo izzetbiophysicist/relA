@@ -9,7 +9,11 @@ O complexo NF-κB foi analisado utilizando a estrutura 1NFI do PDB para marcar o
   <img src="https://github.com/izzetbiophysicist/relA/blob/main/Slide1.PNG" style="width: 80%; max-width: 400px;" />
 </div>
 
+Figura 1. Contexto estrutural da mutação. (A) Representação estrutural do complexo NF-κB mostrando as subunidades p65 (verde), p50 (amarelo) e NFKBIA (vermelho). O local da mutação em NFKBIA está destacado com um círculo tracejado. (B) Estrutura proteica predita pelo AlphaFold colorida de acordo com os valores de pLDDT (predicted Local Distance Difference Test), variando de baixa (vermelho, <50) a alta (azul, 100).
+
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/izzetbiophysicist/relA/blob/main/Slide2.PNG" style="width: 80%; max-width: 400px;" />
 </div>
+
+Figura 2. Mapeamento de essencialidade. O mapa de calor mostra as pontuações de patogenicidade do AlphaMissense por posição para cada resíduo de aminoácido ao longo da sequência proteica. O eixo y representa os 20 aminoácidos padrão, e o eixo x representa o índice dos resíduos. Pontos verdes indicam resíduos anotados como fosforilados.
