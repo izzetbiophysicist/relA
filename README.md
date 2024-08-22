@@ -17,3 +17,9 @@ Figura 1. Contexto estrutural da mutação. (A) Representação estrutural do co
 </div>
 
 Figura 2. Mapeamento de essencialidade. O mapa de calor mostra as pontuações de patogenicidade do AlphaMissense por posição para cada resíduo de aminoácido ao longo da sequência proteica. O eixo y representa os 20 aminoácidos padrão, e o eixo x representa o índice dos resíduos. Pontos verdes indicam resíduos anotados como fosforilados.
+
+
+# Resultados / Discussão
+
+Ao analisar os dados cristalográficos, o códon de parada parece não interferir na interação entre a p65 e as outras subunidades do complexo NF-κB. A introdução do códon de parada resulta na perda de uma região da subunidade p65 que é predita com baixo grau de confiança pelo AlphaFold, sugerindo que essa região pode ser inerentemente desordenada ou difícil de modelar com precisão.
+Apesar da baixa confiança na predição, foram avaliadas a essencialidade e a patogenicidade da região truncada. Dados de fosforilação, obtidos da UniProt, indicam que existem diversos sítios de fosforilação nas regiões afetadas pelo códon de parada, as regiões também parecem ser essenciais, uma vez que apresentam faixas de mutações provavelmente patogênicas. A perda desses sítios de fosforilação pode ter implicações significativas para a regulação da atividade da p65 e suas interações dentro do complexo NF-κB. A introdução do códon de parada provavelmente perturba domínios funcionais chave.
